@@ -44,8 +44,3 @@ A comprehensive collection of advanced algorithmic problems solved using Python.
 * **Optimization:** Reducing time complexity in NP-hard problems using pruning and heuristics.
 * **Modeling:** transforming abstract constraints (like the Knapsack capacity) into graph traversals.
 * **Image Processing:** Manipulating pixel arrays based on energy functions (gradients).
-
-## 🤝 Credits
-Project developed for the **Advanced Algorithmics** course at **Universitat de Barcelona (UB)**.
-* **Co-author:** Marc Sanz
-* **Co-author:** Kai Oliveros
